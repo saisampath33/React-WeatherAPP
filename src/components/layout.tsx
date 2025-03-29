@@ -19,7 +19,7 @@ export function Layout({ children }: PropsWithChildren) {
           <p className="text-sm font-medium">
             Made by Sampath |{" "}
             <a
-              href="https://github.com/sampath33"
+              href="https://github.com/saisampath33"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-400 hover:underline"
